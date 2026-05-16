@@ -39,6 +39,9 @@ target/
 /logs/
 *.log
 
+### local docker data ###
+/mall4j-mysql/
+
 ### temp ignore ###
 *.cache
 *.diff
